@@ -54,6 +54,6 @@ Hosted on **Vercel**
 
 **Nandhitha Binu**
 
-- LinkedIn: https://www.linkedin.com/in/nandhitha-binu-94a161250/
+- LinkedIn: https://www.linkedin.com/in/nandhitha-binu
 - GitHub: https://github.com/Nandhitha-Binu
 - Portfolio: https://nandhitha-portfolio.vercel.app/
